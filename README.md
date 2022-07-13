@@ -1,4 +1,5 @@
 # Recell
+## About the project
 Buying and selling used phones and tablets used to be something that happened on a handful of online marketplace sites but the used and refurbished device market has grown considerably over the past decade.
 
 Refurbished and used devices continue to provide cost-effective alternatives to both consumers and businesses that are looking to save money when purchasing one. Recell, a start up is looking to help in maximizing the longevity of devices through second-hand trade. The impact of the COVID-19 outbreak may further boost this segment as consumers cut back on discretionary spending and buy phones and tablets only for immediate needs.
